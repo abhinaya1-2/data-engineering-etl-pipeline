@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,quantity,price,order_date,region
+1001,John Smith,Laptop,Electronics,1,850,2024-01-10,West
+1002,Sarah Lee,Phone,Electronics,2,600,2024-01-12,East
+1003,David Kim,Chair,Furniture,4,120,2024-01-15,South
+1004,Emma Davis,Desk,Furniture,1,300,2024-01-18,North
+1005,Michael Brown,Headphones,Electronics,3,80,2024-01-20,West
+1006,Ava Wilson,Monitor,Electronics,2,220,2024-01-22,East
+1007,James Miller,Table,Furniture,1,450,2024-01-25,South
+1008,Sophia Moore,Keyboard,Electronics,5,45,2024-01-28,North
+1009,Lucas Taylor,Mouse,Electronics,6,25,2024-01-30,West
+1010,Olivia Anderson,Bookshelf,Furniture,2,150,2024-02-02,East
